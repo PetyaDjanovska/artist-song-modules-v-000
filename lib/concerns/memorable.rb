@@ -1,7 +1,5 @@
 module Memorable
   module ClassMethods
-    @@songs = []
-    @@artists = []
 
     def reset_all
       all.clear
