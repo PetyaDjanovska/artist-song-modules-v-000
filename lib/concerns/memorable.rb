@@ -15,7 +15,5 @@ module Memorable
     def initialize
 
     end
-
   end
-
 end
